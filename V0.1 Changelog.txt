@@ -1,0 +1,18 @@
+Network Optimizer
+Version: 0.1
+Released on: 24/12/2022
+Created by SpikeGR
+
+-------------------------
+Network Optimizer has been updated to version 0.1
+Below you can see what changed in this update:
+
+1) Network Optimizer is now officially released!
+-------------------------
+
+
+--------------------------
+IMPORTANT NOTES FOR VERSION 0.1 !
+
+1) This program is still in an early stage. This is not the final release.
+--------------------------
